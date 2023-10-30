@@ -5,10 +5,8 @@
   "unity": "2018.4",
   "description": "Gosu Singleton",
   "keywords": [
-    "StateMachine",
-    "Generic",
-    "State",
-	"Machine",
+    "singleton",
+    "Pattern",
 	"Gosu"
   ],
   "category": "editor extensions",
