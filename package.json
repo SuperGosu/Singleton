@@ -1,0 +1,29 @@
+{
+  "name": "com.supergosu.singleton",
+  "displayName": "Gosu Singleton",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "Gosu Singleton",
+  "keywords": [
+    "StateMachine",
+    "Generic",
+    "State",
+	"Machine",
+	"Gosu"
+  ],
+  "category": "editor extensions",
+  "homepage": "https://github.com/SuperGosu/Singleton",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SuperGosu/Singleton"
+  },
+  "bugs": "https://github.com/SuperGosu/Singleton",
+  "author": {
+    "name": "Super Gosu",
+    "url": "https://github.com/SuperGosu/Singleton"
+  },
+  "type": "library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
